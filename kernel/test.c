@@ -154,7 +154,7 @@ static void shell(void) {
 		   "\tuid gid su\n"
 		   "Kernel info:\n"
 		   "\tF1-F4 - switch to TTY\n"
-		   "\tSource code: https://github.com/Kolya142/klyx\n"
+		   "\tSource code: https://github.com/Gudhein3/klyx\n"
 		   "\tLicense: GNU GPL2.0\n");
 	}
 	else if (!strcmp(buf, "ud")) {
